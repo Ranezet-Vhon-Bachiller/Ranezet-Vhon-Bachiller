@@ -14,9 +14,9 @@ New Era University
 ## 🏅 Certifications
 ([SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/c6b9e3cfe38a48dd8d2ebd9b47b2f8f2))  
 
-([Oracle Cloud Infrastructure 2025](https://catalog-education.oracle.com/pls/certview/sharebadge?id=52B673BB2719E44147684435560A86096F213118AA54D05E5329F4041A042AF6))
+([Oracle Cloud Infrastructure 2025](https://catalog-education.oracle.com/pls/certview/sharebadge?id=52B673BB2719E44147684435560A86096F213118AA54D05E5329F4041A042AF6)
 
-
+([Oracle Data Platform 2025](https://catalog-education.oracle.com/pls/certview/sharebadge?id=2F7F974688207835DBBD815B5A18C02876488A2C0F74D9AF995F400CA185A037))
 ---
 
 ## 🧰 Skillsets
